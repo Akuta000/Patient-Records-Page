@@ -34,7 +34,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onAccessRecords }) => {
               <div className="w-8 h-8 bg-gradient-to-r from-primary-600 to-secondary-600 rounded-lg flex items-center justify-center shadow-lg">
                 <FileText className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-white font-display">Claude Ink Co.</span>
+              <span className="text-xl font-bold text-white font-display">Cloud Ink Co.</span>
             </div>
             
             <nav className="hidden md:flex space-x-8">
